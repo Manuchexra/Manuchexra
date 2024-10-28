@@ -25,9 +25,9 @@ Men quyidagi texnologiyalar va dasturlash tillarini bilaman:
 
 ### 📈 Mening Statistikam
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manuchexra&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuchexra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
