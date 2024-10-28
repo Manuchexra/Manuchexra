@@ -33,7 +33,7 @@ Salom! Men backend va full-stack dasturchiman. Men turli texnologiyalardan foyda
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manuchexra&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuchexraE&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuchexra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
