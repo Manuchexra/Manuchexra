@@ -39,6 +39,6 @@ Salom! Men backend va full-stack dasturchiman. Men turli texnologiyalardan foyda
 
 ### 💬 Bog'lanish
 Menga quyidagi platformalarda murojaat qilishingiz mumkin:
-- **Telegram**: [@Nuemexroj](https://t.me/Nuemexroj)
+- **Telegram**: [@Nurmexroj](https://t.me/Nuemexroj)
 
 Kodingiz chiroyli va muvaffaqiyatli bo'lsin! 😊
