@@ -3,7 +3,7 @@
 **`Backend Dasturchi | Telegram Bot Yaratish `**
 
 ### 🧑‍💻 Men haqimda
-Salom! Men backend va full-stack dasturchiman. Men turli texnologiyalardan foydalangan holda sifatli dasturlar yaratishga ishtiyoqmandman. Telegram bot yaratishda va backend rivojlantirishda katta tajribam bor. Men uchun kod yozish nafaqat ish, balki ijodiy jarayondir.
+Salom! Men backend . Men turli texnologiyalardan foydalangan holda sifatli dasturlar yaratishga ishtiyoqmandman. Telegram bot yaratishda va backend rivojlantirishda katta tajribam bor. Men uchun kod yozish nafaqat ish, balki ijodiy jarayondir.
 ..
 - **Ism**: Manuchehra
 - **Familiya**: Nurmexrojova
