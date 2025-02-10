@@ -7,7 +7,7 @@ Salom! Men backend dasturchisiman. Men turli texnologiyalardan foydalangan holda
 ..
 - **Ism**: Manuchehra
 - **Familiya**: Nurmexrojova
-- **Telegram username**: [@Nuemexroj](https://t.me/Nuemexroj)
+- **Telegram username**: [@Nurmexroj](https://t.me/Nuemexroj)
 
 ---
 
