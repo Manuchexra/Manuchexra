@@ -7,7 +7,7 @@ Salom! Men Python Backend dasturchisiman. Men turli texnologiyalardan foydalanga
 ..
 - **Ism**: Manuchehra
 - **Familiya**: Nurmexrojova
-- **Telegram username**: [@Nurmexroj](https://t.me/Nuemexroj)
+- **Telegram username**: [@Nurmexrojova](https://t.me/Nuemexrojova)
 
 ---
 
