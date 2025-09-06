@@ -39,6 +39,6 @@ Salom! Men Python Backend dasturchisiman. Men turli texnologiyalardan foydalanga
 
 ### 💬 Bog'lanish
 Menga quyidagi platformalarda murojaat qilishingiz mumkin:
-- **Telegram**: [@Nurmexroj](https://t.me/Nuemexroj)
+- **Telegram**: [@Manuchehra_N](https://t.me/Manuchehra_N)
 
 Kodingiz chiroyli va muvaffaqiyatli bo'lsin! 😊
