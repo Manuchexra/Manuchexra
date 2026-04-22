@@ -63,8 +63,7 @@
 
 ## 📫 Contact
 - Telegram: @Manuchehra_N
-- Email: manuchehra.nurmexrojova@example.com
-- LinkedIn: linkedin.com/in/your-profile
+- Email: mnurmexrojova@gmail.com
 
 ---
 
