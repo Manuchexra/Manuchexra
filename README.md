@@ -1,6 +1,6 @@
 # Hi, I'm Manuchehra 👋
 
-**Python Backend Developer** from Uzbekistan 🇺🇿
+**Python Backend Developer** from Uzbekistan
 
 ---
 
